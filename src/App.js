@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Header></Header>
-      <Shop></Shop>git
+      <Shop></Shop>
     </div>
   );
 }
